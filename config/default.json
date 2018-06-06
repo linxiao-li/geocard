@@ -1,0 +1,9 @@
+{
+    "mysql":{
+        "host":"geocard.cmkx8o0ctqbi.us-west-2.rds.amazonaws.com",
+        "user":"linxiao",
+        "password":"Jiang^xiaotangchaoJade",
+        "port":3306,
+        "database":"innodb"
+    }
+}
